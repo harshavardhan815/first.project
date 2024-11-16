@@ -1,0 +1,74 @@
+.main-heading{
+text-align: center; color: rgb(0, 170, 255);
+background-color: white;
+border: 3px solid black;
+}
+.contact{
+    text-align: center;
+    color: red;
+    text-decoration: underline;
+}
+.logo{
+    position: fixed;
+    text-align: right;
+}
+.step-container{
+    color: black;
+    text-align: center;
+}
+.preparation-container{
+    text-align: center;
+    text-decoration: underline;
+}
+.firstimage-container{
+text-align: center;
+    height: 20%;
+}
+.second-step{
+    text-align: center;
+    color: black;
+}
+.drilling-container{
+    text-align: center;
+    color: black;
+    text-decoration: underline;
+}
+.second-image{
+    text-align: center;
+    
+}
+.third-step{
+    text-align:  center;
+    color: black;
+}
+
+.cut-container{
+    text-align: center;
+    color: black;
+    text-decoration: underline;
+}
+.third-image{
+    text-align: center;
+}
+.fourth-step{
+    text-align: center;
+    color: black;
+}
+.calibration-container{
+    text-align: center;
+    text-decoration: underline;
+}
+.fourth-image{
+    text-align: center;
+}
+.fifth-step{
+    text-align: center;
+    color: black;
+}
+.attaching-container{
+    text-align: center;
+    text-decoration: underline;
+}
+.fifth-image{
+    text-align: center;
+}
